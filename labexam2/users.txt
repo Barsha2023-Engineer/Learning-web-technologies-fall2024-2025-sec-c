@@ -1,0 +1,3 @@
+ID: 22-46624-1 | Name: barsha | User Type: User | Password: qwer
+ID: 1234 | Name: Barsha | User Type: Admin | Password: 1234
+ID: 1234 | Name: Barsha | User Type: Admin | Password: 1234
